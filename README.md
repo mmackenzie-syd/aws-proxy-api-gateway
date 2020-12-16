@@ -6,5 +6,5 @@ https://docs.aws.amazon.com/apigateway/latest/developerguide/api-gateway-create-
 
 ### With Lambda
 
-https://docs.aws.amazon.com/apigateway/latest/developerguide/apigateway-dg.pdf#api-gateway-create-api-as-simple-proxy-for-lambda
+https://docs.aws.amazon.com/apigateway/latest/developerguide/api-gateway-create-api-as-simple-proxy-for-lambda.html
 
